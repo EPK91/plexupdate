@@ -5,6 +5,7 @@
 # Forked from:
 # @author @martinorob https://github.com/martinorob
 # https://github.com/martinorob/plexupdate/
+# Updated to DSM 7.2.2+
 
 # variables
 plexPrefFolder="/volume1/PlexMediaServer/AppData/Plex Media Server"
